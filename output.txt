@@ -1,0 +1,6 @@
+Algorithm: DFS (Stack)
+Path found: Yes
+Path length: 76
+Nodes visited: 164
+Time taken: 0 ms
+
